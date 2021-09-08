@@ -1,0 +1,34 @@
+{
+  "map": [
+    "XXXXXXXXXXXXX",
+    "X    X X X  X",
+    "XP F L L L VX",
+    "X    X X X  X",
+    "XXXXXXXXXXXXX"
+  ],
+  "allowKeyboard": false,
+  "title": "Variables - basic",
+  "welcomeMessage": [
+    "Hello, adventurer! You've got a friend. Walk up to her.",
+    "You can walk using functions right(), left(), up() and down()"
+  ],
+  "friends": [
+    {
+      "data": null,
+      "message": [
+        "The code to the locks is Sun. Good luck. Bye!"
+      ]
+    }
+  ],
+  "locks": [
+    {
+      "code": "Sun"
+    },
+    {
+      "code": "Sun"
+    },
+    {
+      "code": "Sun"
+    }
+  ]
+}

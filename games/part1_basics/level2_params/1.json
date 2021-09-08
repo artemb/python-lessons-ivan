@@ -1,0 +1,26 @@
+{
+  "map": [
+    "XXXXXXXXXXXXXXXXX",
+    "X   X   X   X   X",
+    "XP  L   L   L  VX",
+    "X   X   X   X   X",
+    "XXXXXXXXXXXXXXXXX"
+  ],
+  "allowKeyboard": false,
+  "title": "Level 2. Function parameters",
+  "welcomeMessage": "Hello, adventurer! Try and reach the diamond. \nYou can walk using functions right(), left(), up() and down()\n",
+  "locks": [
+    {
+      "code": 7,
+      "label": "You see a code lock. You can open it by calling the open_lock() function.\nYou need to give it a parameter, which is the code. For this lock it's number 7\n"
+    },
+    {
+      "code": [55],
+      "label": "The label on this lock shows 55."
+    },
+    {
+      "code": [965],
+      "label": ["The label on this locks shows 965."]
+    }
+  ]
+}

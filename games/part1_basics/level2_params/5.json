@@ -1,0 +1,26 @@
+{
+  "map": [
+    "XXXXXXXXXXXXXXXXX",
+    "X   X   X   X   X",
+    "XP  L   L   L  VX",
+    "X   X   X   X   X",
+    "XXXXXXXXXXXXXXXXX"
+  ],
+  "allowKeyboard": false,
+  "title": "Level 2. Function parameters",
+  "welcomeMessage": "Hello, adventurer! Try and reach the diamond. \nYou can walk using functions right(), left(), up() and down()\n",
+  "locks": [
+    {
+      "code": 57618,
+      "label": "The label on the lock reads: multiply the sum of 59 and 523 by 99"
+    },
+    {
+      "code": 198072,
+      "label": "The label on this lock reads: multiply 421 - 43 by 312 + 212"
+    },
+    {
+      "code": 48,
+      "label": ["The label on this locks shows: How old is someone born on 1st of Jan 1973 today?"]
+    }
+  ]
+}
